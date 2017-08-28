@@ -1,0 +1,17 @@
+appdirs==1.4.3
+Django==1.10.6
+django-autoslug==1.9.3
+django-embed-video==1.1.2
+django-geoposition==0.3.0
+django-location-field==2.0.3
+django-money==0.10.2
+django-storages==1.5.2
+gunicorn==19.7.1
+packaging==16.8
+paramiko==2.1.2
+Pillow==4.1.1
+psycopg2==2.7.1
+pytz==2017.2
+requests==2.13.0
+six==1.10.0
+storage==0.0.4.3
